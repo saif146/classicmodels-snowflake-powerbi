@@ -20,6 +20,16 @@
 An end-to-end business intelligence project built on top of the classic **ClassicModels** sales dataset, sourced live from **Snowflake** and modeled in **Power BI Desktop**. The project covers sales, margin & profit trends, order-status operations, customer behavior, and product performance — with 60+ DAX measures answering real business questions a sales or operations team would actually ask.
 
 ---
+## Key Findings
+ 
+
+ 
+1. **Profit concentration:** **[Classic Cars]** generates **[38.90%]** of total profit, while **[Trains]** contributes only **[1.86%]**. *(Source: Product page, `revenue_by_product_line` measure)*
+2. **  volume:** **[1992 Ferrari 360 Sprider Red/Classic Cars]** has the highest sales volume  *(Source: Product page, margin measures)*
+3. **Order leakage:** **[151]** orders (**[3.97%]**) were cancelled, on hold, or disputed. The top 5 returned/cancelled products account for **[0.67%]** units. *(Source: Order Status measures, `Top 5 Returned Products`)*
+4. **Customer concentration:** The top **[5]** customers account for **[19.22%]** of revenue, and **[24]** customers have never placed an order. *(Source: Customer page)*
+5. **Trend:** Revenue changed **[±35.8%]** year over year, with **[November]** contributing the most. *(Source: Financial page, YoY/MoM and top-3-month measures)*
+
 # 🖼 Dashboard Preview
 
 
