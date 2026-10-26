@@ -30,6 +30,14 @@ An end-to-end business intelligence project built on top of the classic **Classi
 4. **Customer concentration:** The top **[5]** customers account for **[19.22%]** of revenue, and **[24]** customers have never placed an order. *(Source: Customer page)*
 5. **Trend:** Revenue changed **[±35.8%]** year over year, with **[November]** contributing the most. *(Source: Financial page, YoY/MoM and top-3-month measures)*
 
+## Recommendation
+ 
+
+ 
+1. “Prioritize inventory and sales effort for [Classic Cars], which generates [38.90%] of profit at a [60%] margin, and review pricing on [Vintage cars], which has high volume but only [25%] margin. Expected effect: higher overall margin without needing more sales volume.”(from findings 1 and 2)
+2. “Investigate the top 5 cancelled products ([333] units, [0.67%] of cancellations) for quality and stock issues, and add a confirmation step for orders at risk of dispute. Expected effect: fewer lost orders.”(from finding 3)
+3. “Launch a re-engagement campaign for the [24] customers who have never ordered, starting with [Germany], and assign account managers to the top [5] customers who account for [19.22%] of revenue.”(from finding 4)
+
 # 🖼 Dashboard Preview
 
 
